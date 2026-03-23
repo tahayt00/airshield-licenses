@@ -1483,16 +1483,6 @@
             "license": "license:a99f0948d117b9b4b25306434d3b275443f4c6f0"
         },
         {
-            "id": 146,
-            "discord_id": "1103678053919498321",
-            "username": "REYUX",
-            "reason": "Attempt to Exploit GodMod",
-            "added_at": "2026-03-23T05:24:42.027334+00:00",
-            "last_ban_date": "2026-03-23T05:24:42.027334+00:00",
-            "banned_by": "914838323003031552",
-            "license": "license:64ac11b32660d676e05a4a11ac1d5255ca51e073"
-        },
-        {
             "id": 147,
             "discord_id": "1098579100714664079",
             "username": "Chitan",
@@ -1917,11 +1907,6 @@
         {
             "user_id": 145,
             "proof_url": "https://media.discordapp.net/attachments/1327061990392201287/1421935801846993006/screenshot.jpeg?ex=68dad869&is=68d986e9&hm=d3a0f3c320ea1a7cf31b088aec083494ddcab9a15b6884ae2af2a12927119329&",
-            "server_name": "AirShield admin"
-        },
-        {
-            "user_id": 146,
-            "proof_url": "https://media.discordapp.net/attachments/1327061990392201287/1421942756439363664/screenshot.jpeg?ex=68dadee3&is=68d98d63&hm=c7205b7e7855c450d0949761589012dc4a829cd765be59e85f29fdc8f55bdbd5&",
             "server_name": "AirShield admin"
         },
         {

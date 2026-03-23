@@ -1631,16 +1631,6 @@
             "last_ban_date": "2026-03-23T05:24:42.028340+00:00",
             "banned_by": "914838323003031552",
             "license": "license:78eff527dc0becaed61f5f24e67f6a56b35c6bb7"
-        },
-        {
-            "id": 161,
-            "discord_id": "1339366537085321257",
-            "username": "5yws",
-            "reason": "dwda",
-            "added_at": "2026-03-23T06:13:19.839200+00:00",
-            "last_ban_date": "2026-03-23T06:13:19.839200+00:00",
-            "banned_by": "1339366537085321257",
-            "license": null
         }
     ],
     "blacklisted_proofs": [
@@ -1953,11 +1943,6 @@
             "user_id": 159,
             "proof_url": "https://media.discordapp.net/attachments/1327061990392201287/1422660228658233485/screenshot.jpeg?ex=68dd7b16&is=68dc2996&hm=5ef7429f7c2db44a8bf72d836417eb5f0df337c92b5d091f7b754184302042bf&",
             "server_name": "AirShield admin"
-        },
-        {
-            "user_id": 161,
-            "proof_url": "sccaws",
-            "server_name": "Air Shield Administration"
         }
     ]
 }

@@ -1631,6 +1631,26 @@
             "last_ban_date": "2026-03-23T05:24:42.028340+00:00",
             "banned_by": "914838323003031552",
             "license": "license:78eff527dc0becaed61f5f24e67f6a56b35c6bb7"
+        },
+        {
+            "id": 161,
+            "discord_id": "1458834837224951914",
+            "username": "massimogreco8052_04654",
+            "reason": "cheat",
+            "added_at": "2026-03-23T06:57:04.419211+00:00",
+            "last_ban_date": "2026-03-23T06:57:04.419211+00:00",
+            "banned_by": "1339366537085321257",
+            "license": "license:d53e5ecf7d825e983edb72793e059392ff150768"
+        },
+        {
+            "id": 162,
+            "discord_id": "1102008864515293286",
+            "username": "01.78",
+            "reason": "cheater w9",
+            "added_at": "2026-03-23T07:08:50.853357+00:00",
+            "last_ban_date": "2026-03-23T07:08:50.853357+00:00",
+            "banned_by": "1339366537085321257",
+            "license": null
         }
     ],
     "blacklisted_proofs": [
@@ -1943,6 +1963,16 @@
             "user_id": 159,
             "proof_url": "https://media.discordapp.net/attachments/1327061990392201287/1422660228658233485/screenshot.jpeg?ex=68dd7b16&is=68dc2996&hm=5ef7429f7c2db44a8bf72d836417eb5f0df337c92b5d091f7b754184302042bf&",
             "server_name": "AirShield admin"
+        },
+        {
+            "user_id": 161,
+            "proof_url": "https://cdn.discordapp.com/attachments/1484379613336699000/1485532658409799680/0A3F7D2D-2841-427F-ABC0-2FEBE30F0A82.png?ex=69c23599&is=69c0e419&hm=821a86c3a22f73fed734bac29512ff539a044204b1c39fa7dfe874c1893a8031&",
+            "server_name": "Air Shield Administration"
+        },
+        {
+            "user_id": 162,
+            "proof_url": "https://cdn.discordapp.com/attachments/1484379342187528302/1485535755932795021/ea3635300275c6958020418170b28709.png?ex=69c2387c&is=69c0e6fc&hm=fbaba0d43edabf51ada06bf399f9abd109a7dabc92600e0fac903f1a35aae0eb&",
+            "server_name": "Air Shield Administration"
         }
     ]
 }

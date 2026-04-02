@@ -1655,6 +1655,16 @@
             "last_ban_date": "2026-04-02T17:51:07.749366+00:00",
             "banned_by": "1339366537085321257",
             "license": null
+        },
+        {
+            "id": 164,
+            "discord_id": "1344468905388675105",
+            "username": "jenoxprem",
+            "reason": "cheate",
+            "added_at": "2026-04-02T20:10:37.980383+00:00",
+            "last_ban_date": "2026-04-02T20:10:37.980383+00:00",
+            "banned_by": "1339366537085321257",
+            "license": "c4c0d3a254fc12b4066f23238fcece5809df03c7"
         }
     ],
     "blacklisted_proofs": [
@@ -1982,6 +1992,13 @@
             "user_id": 163,
             "proof_url": "esrfveasdfea",
             "server_name": "Air Shield Administration"
+        },
+        {
+            "user_id": 164,
+            "proof_url": "c4c0d3a254fc12b4066f23238fcece5809df03c7",
+            "server_name": "Air Shield Administration"
         }
-    ]
+    ],
+    "blacklisted_hwids": [],
+    "blacklisted_hwid_proofs": []
 }
